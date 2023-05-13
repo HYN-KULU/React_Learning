@@ -1,0 +1,60 @@
+{
+  "data": {
+    "records": [
+      {
+        "name": "PA1",
+        "caseNumber": "06770",
+        "checkNumber": "0431",
+        "reportDate": "04/29",
+        "checkType": "CT",
+        "resportDesc": "CHEST",
+        "status": "finished"
+      },
+      {
+        "name": "PA2",
+        "caseNumber": "06771",
+        "checkNumber": "0432",
+        "reportDate": "04/29",
+        "checkType": "CT",
+        "resportDesc": "CHEST",
+        "status": "finished"
+      },
+      {
+        "name": "PA3",
+        "caseNumber": "06772",
+        "checkNumber": "0433",
+        "reportDate": "04/30",
+        "checkType": "CT",
+        "resportDesc": "CHEST",
+        "status": "finished"
+      },
+      {
+        "name": "PA4",
+        "caseNumber": "06773",
+        "checkNumber": "0434",
+        "reportDate": "04/30",
+        "checkType": "CT",
+        "resportDesc": "CHEST",
+        "status": "finished"
+      },
+      {
+        "name": "PA5",
+        "caseNumber": "06774",
+        "checkNumber": "0434",
+        "reportDate": "05/01",
+        "checkType": "CT",
+        "resportDesc": "CHEST",
+        "status": "pending"
+      },
+      {
+        "name": "PA6",
+        "caseNumber": "06775",
+        "checkNumber": "0435",
+        "reportDate": "05/02",
+        "checkType": "CT",
+        "resportDesc": "CHEST",
+        "status": "pending"
+      }
+    ]
+  }
+}

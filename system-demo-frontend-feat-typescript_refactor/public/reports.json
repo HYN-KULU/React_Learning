@@ -1,0 +1,46 @@
+{
+  "data": {
+    "reports": [
+      {
+        "order": "1",
+        "data": "26~30 6~7",
+        "checknumber": "非实性结节",
+        "date": "左肺上叶2.5mm",
+        "way": "尖后端6.25mm",
+        "report": "中危"
+      },
+      {
+        "order": "2",
+        "data": "26~30 6~7",
+        "checknumber": "非实性结节",
+        "date": "左肺上叶2.5mm",
+        "way": "尖后端6.25mm",
+        "report": "中危"
+      },
+      {
+        "order": "3",
+        "data": "26~30 6~7",
+        "checknumber": "非实性结节",
+        "date": "左肺上叶2.5mm",
+        "way": "尖后端6.25mm",
+        "report": "高危"
+      },
+      {
+        "order": "4",
+        "data": "26~30 6~7",
+        "checknumber": "非实性结节",
+        "date": "左肺上叶2.5mm",
+        "way": "尖后端6.25mm",
+        "report": "健康"
+      },
+      {
+        "order": "5",
+        "data": "26~30 6~7",
+        "checknumber": "非实性结节",
+        "date": "左肺上叶2.5mm",
+        "way": "尖后端6.25mm",
+        "report": "健康"
+      }
+    ]
+  }
+}

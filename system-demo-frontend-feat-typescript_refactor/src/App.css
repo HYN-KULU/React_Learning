@@ -1,0 +1,10 @@
+.ant-table-thead {
+  color: rgb(182, 182, 182);
+  height: 72px;
+  border: 1px solid rgb(182, 182, 182);
+}
+
+.ant-table-cell {
+  height: 72px;
+  color: rgb(182, 182, 182);
+}
